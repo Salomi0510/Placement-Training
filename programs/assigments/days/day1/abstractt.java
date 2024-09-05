@@ -5,7 +5,7 @@ abstract class Cars {
 
     // abstract method must want abstract class to define 
     // abstract class also have normal method
-    // 
+    // salomi
     abstract void model();
 
     public void color(){
